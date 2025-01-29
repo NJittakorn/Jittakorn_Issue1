@@ -8,9 +8,7 @@
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
-        <tr>
-            <td width="1007" bgcolor="#FFFFFF">fgdgdfgfddddddddddddddddddddddddg
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
+        <tr></li>
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
